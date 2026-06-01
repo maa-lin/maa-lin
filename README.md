@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Malin 👋
+Frontend Developer with a background in Technical Writing.  
+I build clear, accessible interfaces and focus on making information easy to understand.
 
-<!--
-**maa-lin/maa-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+  🎓 Frontend Developer  
+  📝 Technical Writing background  
+  🎯 Focused on usability, accessibility and clarity  
+  📍 Stockholm  
+  🌱 I’m currently building my portfolio and improving my frontend skills with React and TypeScript.  
+  💼 Open to junior frontend developer opportunities where I can contribute, learn, and continue growing as a developer.  
+  📫 Contact me: [LinkedIn](https://www.linkedin.com/in/malin-storm-3888b8315)  
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**: React, TypeScript, JavaScript, HTML, CSS, SCSS, WordPress  
+**Backend**: REST API development, Node.js, Express.js, WebSockets (Socket.io)  
+**Testing**: Cypress, Jest  
+**Tools**: Git, GitHub, Vite, Postman, Figma  
+**Focus areas**: Accessibility (WCAG), Responsive design, UX/UI
+
+## Selected Projects
+
+### [Ember Flow](https://github.com/maa-lin/Ember-Flow)
+A task management app focused on self-care and intentional productivity.
+- React, TypeScript and SCSS, and Node.js, Express and MongoDB for the API.
+- Deployed on [Vercel](https://ember-flow.vercel.app/) & Render.
+
+### [Mini SEO-Analyzer](https://github.com/maa-lin/mini-seo-analyzer)
+Web tool for basic on-page SEO analysis of HTML.
+- React, TypeScript and CSS.
+- Deployed on [GitHub Pages](https://maa-lin.github.io/mini-seo-analyzer/)
+
+### [Pokemon Memory Game](https://github.com/maa-lin/pokemon-memory)
+Memory game using Pokémon images fetched from the [Pokémon API](https://pokeapi.co/).
+- React, TypeScript and CSS.
+- Deployed on [GitHub Pages](https://maa-lin.github.io/pokemon-memory/)
