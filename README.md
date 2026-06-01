@@ -1,8 +1,7 @@
-# Hi, I'm Malin 👋
-Frontend Developer with a background in Technical Writing.  
-I build clear, accessible interfaces and focus on making information easy to understand.
+<img width="1280" height="275" alt="Untitled (1)" src="https://github.com/user-attachments/assets/68391c92-796e-4c83-a852-36c76d762963" />
 
 ## About Me
+
   🎓 Frontend Developer  
   📝 Technical Writing background  
   🎯 Focused on usability, accessibility and clarity  
