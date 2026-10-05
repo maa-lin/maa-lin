@@ -6,7 +6,7 @@
   📝 Technical Writing background  
   🎯 Focused on usability, accessibility and clarity  
   📍 Stockholm  
-  🌱 I’m currently building my portfolio and improving my frontend skills with React and TypeScript.  
+  🌱 I’m currently building my portfolio and improving my frontend skills with React and TypeScript and also learning .Net/C#.  
   💼 Open to junior frontend developer opportunities where I can contribute, learn, and continue growing as a developer.  
   📫 Contact me: [LinkedIn](https://www.linkedin.com/in/malin-storm-3888b8315)  
 
